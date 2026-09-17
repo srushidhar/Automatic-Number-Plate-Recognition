@@ -4,7 +4,11 @@ A classical computer-vision pipeline that locates a vehicle's license plate
 in an image or video and reads the plate text using OCR — no deep-learning
 training or GPU required.
 
-**Course:** Computer Vision — Evaluated Project
+| | |
+|---|---|
+| **Name** | Arukala Srushidharreddy |
+| **Registration Number** | 24BAI10508 |
+| **Course** | Computer Vision — Evaluated Project |
 
 ## How it works (pipeline overview)
 
